@@ -1,1 +1,1 @@
-rootProject.name = "IntelliJ Plugin Zettelkasten"
+rootProject.name = "zettelkasten-plugin"

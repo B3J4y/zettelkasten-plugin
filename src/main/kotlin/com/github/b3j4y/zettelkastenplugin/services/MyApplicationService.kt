@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.b3j4y.zettelkastenplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.b3j4y.zettelkastenplugin.MyBundle
 
 class MyApplicationService {
 
